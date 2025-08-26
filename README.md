@@ -1,5 +1,5 @@
 #The output of the program is:
-
+```
 Animal: Lion-Jack
 Mane Size: 1.5 meters
 Sound: Roar!
@@ -12,3 +12,4 @@ Animal: Parrot-Polly
 Vocabulary Size: 50 words
 Sound: Squawk!
 ==========================
+```
